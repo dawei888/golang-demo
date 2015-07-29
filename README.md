@@ -1,3 +1,3 @@
 # golang-demo
- study golang
+ study golang\n
  some golang demo
